@@ -21,13 +21,6 @@ Program to implement customer segmentation using K-Means clustering on the Mall 
 Developed by: P.Bhavankumar
 RegisterNumber: 212225240026
 */
-```
-```
-/*
-Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: P.Bhavankumar
-RegisterNumber: 212225240026
-*/
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
