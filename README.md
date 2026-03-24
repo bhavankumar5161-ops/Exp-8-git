@@ -10,9 +10,20 @@ To implement customer segmentation using K-Means clustering on the Mall Customer
 
 ## Algorithm
 
-2. 
-3. 
-4. 
+1.Load the Data Import the dataset to start the clustering analysis process.
+
+2.Explore the Data Analyze the dataset to understand distributions, patterns, and key characteristics.
+
+3.Select Relevant Features Identify the most informative features to improve clustering accuracy and relevance.
+
+4.Preprocess the Data Clean and scale the data to prepare it for clustering.
+
+5.Determine Optimal Number of Clusters Use techniques like the elbow method to find the ideal number of clusters.
+
+6.Train the Model with K-Means Clustering Apply the K-Means algorithm to group data points into clusters based on similarity.
+
+7.Analyze and Visualize Clusters Examine and visualize the resulting clusters to interpret patterns and relationships.
+ 
 
 ## Program:
 ```
