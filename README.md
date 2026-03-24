@@ -9,7 +9,7 @@ To implement customer segmentation using K-Means clustering on the Mall Customer
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
+
 2. 
 3. 
 4. 
@@ -77,6 +77,11 @@ plt.show()
 
 ## Output:
 
+<img width="837" height="217" alt="Screenshot 2026-03-24 101827" src="https://github.com/user-attachments/assets/b0759d5a-f851-47e7-ae4b-8e8c06c10eee" />
+
+<img width="940" height="469" alt="Screenshot 2026-03-24 101839" src="https://github.com/user-attachments/assets/fdab4d3c-e783-4fd1-b662-c38ccde0c473" />
+
+<img width="909" height="505" alt="Screenshot 2026-03-24 101852" src="https://github.com/user-attachments/assets/7387403a-dea3-46dc-9e23-32795a580ef8" />
 
 
 ## Result:
